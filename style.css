@@ -1,0 +1,27 @@
+.mylink{
+    color: orange;
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;
+    font-size: 30px;
+    text-align: center;
+}
+
+p {
+    margin-bottom: 50px;
+}
+
+
+#wrapper {
+    width: 720px;
+    margin:auto;
+    padding: 100px;
+    border-radius: 50px;
+ background: white;
+ 
+}
+h1{
+    text-align: center;
+    color:blue;
+    
+}
